@@ -11,7 +11,7 @@ const cors = require('cors');
 // CORS Configuration
 const corsOptions = {
     origin: [
-        'https://key-note.vercel.app',
+        'https://taskflow-h4ru.onrender.com',
         'http://localhost:3000',
         'http://127.0.0.1:3000',
         // Add your local development URLs here
